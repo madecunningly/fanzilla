@@ -1,0 +1,3 @@
+[submodule "docker-LAMP"]
+	path = docker-LAMP
+	url = https://github.com/madecunningly/docker-LAMP.git
